@@ -1,0 +1,48 @@
+$base-path: 4px;
+.ml-1 {
+  margin-left: $base-path !important;
+}
+.ml-2 {
+  margin-left: $base-path * 2 !important;
+}
+.ml-3 {
+  margin-left: $base-path * 3 !important;
+}
+.ml-4 {
+  margin-left: $base-path * 4 !important;
+}
+.ml-5 {
+  margin-left: $base-path * 5 !important;
+}
+
+.mt-1 {
+  margin-top: $base-path !important;
+}
+.mt-2 {
+  margin-top: $base-path * 2 !important;
+}
+.mt-3 {
+  margin-top: $base-path * 3 !important;
+}
+.mt-4 {
+  margin-top: $base-path * 4 !important;
+}
+.mt-5 {
+  margin-top: $base-path * 5 !important;
+}
+
+.mb-1 {
+  margin-bottom: $base-path !important;
+}
+.mb-2 {
+  margin-bottom: $base-path * 2 !important;
+}
+.mb-3 {
+  margin-bottom: $base-path * 3 !important;
+}
+.mb-4 {
+  margin-bottom: $base-path * 4 !important;
+}
+.mb-5 {
+  margin-bottom: $base-path * 5 !important;
+}
